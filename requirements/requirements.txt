@@ -1,1 +1,0 @@
-tools, framework and libraries required to reproduce the workflow
